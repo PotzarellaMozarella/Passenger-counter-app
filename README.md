@@ -46,14 +46,3 @@ Let's see an example usage scenario:
 - CSS
 - JavaScript
 
-## Acknowledgements
-
-This Passenger Counter App was created as a simple project to practice HTML, CSS, and JavaScript. Feel free to use and modify the app according to your needs!
-
-## Author
-
-This project was developed by [Your Name]. You can find me on [GitHub](https://github.com/yourusername) and [LinkedIn](https://linkedin.com/in/yourprofile).
-
----
-
-Enjoy using the Passenger Counter App! If you have any questions or feedback, please feel free to contact me.
